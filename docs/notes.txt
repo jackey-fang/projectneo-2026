@@ -1,0 +1,13 @@
+Presentation: divide by 5 parts
+
+Make sure you account for not all data is in both datasets
+
+Do both absolute value and differences from NASA-ESA and ESA-NASA
+
+Scroll down on Sentry API to find other data (model O)
+
+Convert ESA data to floats not fractions
+
+Capitalize Object Designation
+
+convert fractions in tables to floats!! (by next class)
