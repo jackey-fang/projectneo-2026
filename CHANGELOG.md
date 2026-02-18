@@ -1,7 +1,7 @@
 # Change Log
 All notable changes to this project will be documented in this file.
  
-## [Unreleased] - 2025-02-17
+## 2025-02-17
  
 ### Added
 - change log
@@ -9,7 +9,7 @@ All notable changes to this project will be documented in this file.
 - Nasa, ESA full data (individual ips) csv
 - Nasa, ESA Summary data (ip_cum) csv
 - Nasa, Esa shared asteroids csv with and without number of observations
-- Nasa, Esa qunieuq asteroids csv with and without number of observations
+- Nasa, Esa unique asteroids csv with and without number of observations
 - All four api scripts for above full and summary data csv
  
 ### Changed
@@ -19,3 +19,22 @@ All notable changes to this project will be documented in this file.
 
 ### Fixed
 - None
+
+## 2025-02-18
+ 
+### Added
+Sections in main_jackey.ipynb are separated and stored as individual notebook files
+- README
+- date_comparsion_sum_sets.ipynb
+- date_comparsion_unique_sets.ipynb
+- diameter_unique_comparsion.ipynb 
+- ipcum_shared_distribution.ipynb
+- ipcum_unique_risk_analysis.ipynb
+- nobs_unique_comparsion.ipynb
+- vinf_ip_plot.ipynb
+ 
+### Changed
+- main_jackey.ipynb
+
+### Fixed
+- Typo in changelog
