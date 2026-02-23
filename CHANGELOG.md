@@ -23,7 +23,7 @@ All notable changes to this project will be documented in this file.
 ## 2025-02-18
  
 ### Added
-Sections in main_jackey.ipynb are separated and stored as individual notebook files
+- Sections in main_jackey.ipynb are separated and stored as individual notebook files
 - README
 - date_comparsion_sum_sets.ipynb
 - date_comparsion_unique_sets.ipynb
@@ -38,3 +38,15 @@ Sections in main_jackey.ipynb are separated and stored as individual notebook fi
 
 ### Fixed
 - Typo in changelog
+
+## 2025-02-23
+ 
+### Added
+- 2010RF12 close approaches prediction and target plane plots
+- ESA impact velocities vs impact probabilities plot
+ 
+### Changed
+- None
+
+### Fixed
+- Small fixes
