@@ -50,3 +50,15 @@ All notable changes to this project will be documented in this file.
 
 ### Fixed
 - Small fixes
+
+## 2025-02-25
+ 
+### Added
+- ESA Vimp to Vinf calculation
+- NASA and ESA Vinf vs IPcum plot
+ 
+### Changed
+- 2010rf12_close_approaches, fixed coordinate errors.
+
+### Fixed
+- None
